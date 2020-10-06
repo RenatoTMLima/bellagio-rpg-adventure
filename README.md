@@ -9,12 +9,12 @@ A project to be used during a roleplaying game (rpg) adventure, developed with N
 [  ] See all the actions made\
 [  ] See all the items he/she carry\
 [  ] See the maps\
-[  ] Perform actions pre defined by the master\
+[  ] Perform actions pre defined by the master
 
 ### Can't do
 [  ] See the actions of other players\
 [  ] See all the items other players carry\
-[  ] Perform more actions than the master limited in the time\
+[  ] Perform more actions than the master limited in the time
 
 ## Master
 
